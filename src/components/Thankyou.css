@@ -1,0 +1,42 @@
+body{
+    background-color: hsl(216, 12%, 8%);
+}
+
+.detail-layout{
+    background-color: hsl(213, 19%, 18%);
+    border-radius: 20px;
+    width: 340px;
+    height: 340px;
+}
+
+.detail-layout img{
+    width: 120px;
+    height: 80px;
+    padding: 40px 0 20px 105px;
+}
+
+.selection{
+     font-size: 12px;
+     color: hsl(25, 97%, 43%);
+     background-color: hsl(216, 12%, 26%);
+     height: 25px;
+     width: 155px;
+     margin-left: 80px;
+     padding: 5px 0 0 20px;
+     border-radius: 20px;
+     
+}
+
+.TY{
+    font-size: 20px;
+    color: hsl(217, 12%, 83%);
+    padding: 20px 0 0 115px;
+}
+
+.p-layout{
+    color: hsl(217, 12%, 63%);
+    font-size: 12px;
+    padding-left: 25px;
+    text-align: center;
+    width: 290px;
+}
